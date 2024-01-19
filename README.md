@@ -1,13 +1,6 @@
-# LandYourJob
+# Find Your Dream Job
 
-LandYourJob is a job website built using React JS, Tailwind CSS, NodeJS, ExpressJS, MongoDB, and deployed on Netlify. The website allows users to post and view job openings from various industries and locations.
-
-## Features
-
-- View job listings by industry and location
-- Post job openings as a recruiter or employer
-- Manage job postings and applications
-- Sign up and log in to user accounts
+ JobConnect is a job website built using React JS, Tailwind CSS, NodeJS, ExpressJS, MongoDB, and deployed on Netlify. The website allows users to post and view job openings from various industries and locations.
 
 ## Technologies Used
 
