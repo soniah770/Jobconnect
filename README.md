@@ -2,6 +2,9 @@
 
  JobConnect is a job website built using React JS, Tailwind CSS, NodeJS, ExpressJS, MongoDB, and deployed on Netlify. The website allows users to post and view job openings from various industries and locations.
 
+ ![image](https://github.com/soniah770/Jobconnect/assets/59695002/cf229397-ce0b-4e4a-8cc3-2af719b6d989)
+
+
 ## Technologies Used
 
 - React JS
